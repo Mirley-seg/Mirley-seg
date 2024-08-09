@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirley-seg
+- 👋 Olá, me chamo Rafael Mirley, e sou estudante de programação.
 - 👀 Estou interessado em programação e tecnologia em geral.
 - 🌱 Atualmente estou aprendendo HTML5 e CSS3
 - 📫 Pode conversar comigo no instagram: @rafael_mirley
